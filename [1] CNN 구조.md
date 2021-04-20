@@ -2,8 +2,7 @@
 
 
 
-![image-20210413151929455](C:\Users\piai\AppData\Roaming\Typora\typora-user-images\image-20210413151929455.png)
-
+<img src='img/1.png'>
 
 
 
